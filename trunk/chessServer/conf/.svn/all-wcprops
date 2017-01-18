@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/chess/!svn/ver/20/trunk/chessServer/conf
+END
+routes
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/chess/!svn/ver/20/trunk/chessServer/conf/routes
+END
+application.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/chess/!svn/ver/20/trunk/chessServer/conf/application.conf
+END

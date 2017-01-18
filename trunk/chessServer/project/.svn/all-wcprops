@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/chess/!svn/ver/70/trunk/chessServer/project
+END
+Build.scala
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/chess/!svn/ver/20/trunk/chessServer/project/Build.scala
+END
+plugins.sbt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/chess/!svn/ver/20/trunk/chessServer/project/plugins.sbt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chess/!svn/ver/20/trunk/chessServer/project/build.properties
+END

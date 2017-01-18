@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras
+END
+cpShapeNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpShapeNode.h
+END
+cpConstraintNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpConstraintNode.h
+END
+cpCCNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpCCNode.h
+END
+cpShapeNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpShapeNode.m
+END
+cpCCSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpCCSprite.h
+END
+cpCCNodeImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpCCNodeImpl.h
+END
+cpConstraintNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpConstraintNode.m
+END
+SpaceManagerCocos2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/SpaceManagerCocos2d.h
+END
+cpCCNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpCCNode.m
+END
+cpCCSprite.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpCCSprite.m
+END
+cpCCNodeImpl.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/cpCCNodeImpl.m
+END
+SpaceManagerCocos2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chess/!svn/ver/54/trunk/Colonizer/src/ccExtras/SpaceManagerCocos2d.m
+END

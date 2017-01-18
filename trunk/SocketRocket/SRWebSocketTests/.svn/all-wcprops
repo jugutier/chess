@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/chess/!svn/ver/20/trunk/SocketRocket/SRWebSocketTests
+END
+SenTestCase+SRTAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chess/!svn/ver/20/trunk/SocketRocket/SRWebSocketTests/SenTestCase+SRTAdditions.m
+END
+SRWebSocketTests-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chess/!svn/ver/20/trunk/SocketRocket/SRWebSocketTests/SRWebSocketTests-Info.plist
+END
+SRWebSocketTests-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chess/!svn/ver/20/trunk/SocketRocket/SRWebSocketTests/SRWebSocketTests-Prefix.pch
+END
+SRTWebSocketOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chess/!svn/ver/20/trunk/SocketRocket/SRWebSocketTests/SRTWebSocketOperation.h
+END
+SRTAutobahnTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chess/!svn/ver/20/trunk/SocketRocket/SRWebSocketTests/SRTAutobahnTests.m
+END
+SenTestCase+SRTAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chess/!svn/ver/20/trunk/SocketRocket/SRWebSocketTests/SenTestCase+SRTAdditions.h
+END
+SRTWebSocketOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chess/!svn/ver/20/trunk/SocketRocket/SRWebSocketTests/SRTWebSocketOperation.m
+END
+foo.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chess/!svn/ver/20/trunk/SocketRocket/SRWebSocketTests/foo.mm
+END

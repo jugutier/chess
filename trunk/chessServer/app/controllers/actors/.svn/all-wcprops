@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/chess/!svn/ver/34/trunk/chessServer/app/controllers/actors
+END
+PlayersManagerActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chess/!svn/ver/33/trunk/chessServer/app/controllers/actors/PlayersManagerActor.java
+END
+MatchActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/chess/!svn/ver/34/trunk/chessServer/app/controllers/actors/MatchActor.java
+END
+PlayerActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chess/!svn/ver/33/trunk/chessServer/app/controllers/actors/PlayerActor.java
+END
+MatchesManagerActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chess/!svn/ver/32/trunk/chessServer/app/controllers/actors/MatchesManagerActor.java
+END

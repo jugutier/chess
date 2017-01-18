@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/chess/!svn/ver/33/trunk/chessServer/app/models
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/chess/!svn/ver/20/trunk/chessServer/app/models/Piece.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/chess/!svn/ver/33/trunk/chessServer/app/models/Game.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/chess/!svn/ver/20/trunk/chessServer/app/models/User.java
+END

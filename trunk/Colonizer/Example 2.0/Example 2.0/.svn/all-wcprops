@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chess/!svn/ver/71/trunk/Colonizer/Example%202.0/Example%202.0
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/main.m
+END
+Splash.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/Splash.h
+END
+SatPlanet.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chess/!svn/ver/60/trunk/Colonizer/Example%202.0/Example%202.0/SatPlanet.h
+END
+Satellite.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chess/!svn/ver/71/trunk/Colonizer/Example%202.0/Example%202.0/Satellite.m
+END
+Splash.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/Splash.m
+END
+SatPlanet.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chess/!svn/ver/61/trunk/Colonizer/Example%202.0/Example%202.0/SatPlanet.m
+END
+ScreenUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/ScreenUtils.h
+END
+horizontalAlien.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chess/!svn/ver/63/trunk/Colonizer/Example%202.0/Example%202.0/horizontalAlien.h
+END
+Menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/Menu.h
+END
+horizontalAlien.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chess/!svn/ver/63/trunk/Colonizer/Example%202.0/Example%202.0/horizontalAlien.m
+END
+Actor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chess/!svn/ver/63/trunk/Colonizer/Example%202.0/Example%202.0/Actor.h
+END
+Menu.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/Menu.m
+END
+Game.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/Game.h
+END
+BlockCreator.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chess/!svn/ver/71/trunk/Colonizer/Example%202.0/Example%202.0/BlockCreator.h
+END
+Actor.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chess/!svn/ver/63/trunk/Colonizer/Example%202.0/Example%202.0/Actor.m
+END
+Game.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/Game.m
+END
+SpaceMonkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chess/!svn/ver/71/trunk/Colonizer/Example%202.0/Example%202.0/SpaceMonkey.h
+END
+BlockCreator.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chess/!svn/ver/71/trunk/Colonizer/Example%202.0/Example%202.0/BlockCreator.m
+END
+SpaceMonkey.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chess/!svn/ver/71/trunk/Colonizer/Example%202.0/Example%202.0/SpaceMonkey.m
+END
+Alien.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chess/!svn/ver/63/trunk/Colonizer/Example%202.0/Example%202.0/Alien.h
+END
+Alien.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chess/!svn/ver/71/trunk/Colonizer/Example%202.0/Example%202.0/Alien.m
+END
+GameOver.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/GameOver.h
+END
+horizontalShooterAlien.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chess/!svn/ver/63/trunk/Colonizer/Example%202.0/Example%202.0/horizontalShooterAlien.h
+END
+GameOver.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/GameOver.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/AppDelegate.h
+END
+horizontalShooterAlien.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chess/!svn/ver/64/trunk/Colonizer/Example%202.0/Example%202.0/horizontalShooterAlien.m
+END
+Shot.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chess/!svn/ver/68/trunk/Colonizer/Example%202.0/Example%202.0/Shot.h
+END
+Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chess/!svn/ver/54/trunk/Colonizer/Example%202.0/Example%202.0/Prefix.pch
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/AppDelegate.m
+END
+GameInfoLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/GameInfoLayer.h
+END
+Shot.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/chess/!svn/ver/68/trunk/Colonizer/Example%202.0/Example%202.0/Shot.m
+END
+Planet.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chess/!svn/ver/71/trunk/Colonizer/Example%202.0/Example%202.0/Planet.h
+END
+Satellite.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chess/!svn/ver/62/trunk/Colonizer/Example%202.0/Example%202.0/Satellite.h
+END
+GameInfoLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chess/!svn/ver/69/trunk/Colonizer/Example%202.0/Example%202.0/GameInfoLayer.m
+END
+Planet.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/chess/!svn/ver/71/trunk/Colonizer/Example%202.0/Example%202.0/Planet.m
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChatServer/static
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChatServer/static/.gitignore
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChatServer/static/index.html
+END
+proxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChatServer/static/proxy.js
+END

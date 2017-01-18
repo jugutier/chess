@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat/main.m
+END
+TCViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat/TCViewController.m
+END
+TCChatCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat/TCChatCell.m
+END
+TestChat-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat/TestChat-Info.plist
+END
+TestChat-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat/TestChat-Prefix.pch
+END
+TCAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat/TCAppDelegate.h
+END
+TCViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat/TCViewController.h
+END
+TCChatCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat/TCChatCell.h
+END
+TCAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestChat/TCAppDelegate.m
+END

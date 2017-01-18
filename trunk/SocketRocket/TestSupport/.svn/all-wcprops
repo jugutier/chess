@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestSupport
+END
+ensure_virtualenv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestSupport/ensure_virtualenv.sh
+END
+run_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/chess/!svn/ver/20/trunk/SocketRocket/TestSupport/run_test.sh
+END
