@@ -2,8 +2,8 @@
 //  LoadGameCell.m
 //  Chess
 //
-//  Created by julian Gutierrez on 19/03/13.
-//  Copyright (c) 2013 Jorge Lorenzon. All rights reserved.
+//  Created by Julian Gutierrez Ferrara on 19/03/13.
+//  Copyright (c) 2013 Julian Gutierrez Ferrara & Facundo Menzella. All rights reserved.
 //
 
 #import "LoadGameCell.h"

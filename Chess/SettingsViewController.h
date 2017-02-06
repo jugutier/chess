@@ -2,8 +2,8 @@
 //  SettingsViewController.h
 //  Chess
 //
-//  Created by julian Gutierrez on 02/04/13.
-//  Copyright (c) 2013 Jorge Lorenzon. All rights reserved.
+//  Created by Julian Gutierrez Ferrara on 02/04/13.
+//  Copyright (c) 2013 Julian Gutierrez Ferrara & Facundo Menzella. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

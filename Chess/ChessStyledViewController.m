@@ -2,8 +2,8 @@
 //  ChessStyledViewController.m
 //  Chess
 //
-//  Created by julian Gutierrez on 25/05/13.
-//  Copyright (c) 2013 Jorge Lorenzon. All rights reserved.
+//  Created by Julian Gutierrez Ferrara on 25/05/13.
+//  Copyright (c) 2013 Julian Gutierrez Ferrara & Facundo Menzella. All rights reserved.
 //
 #import <Foundation/Foundation.h>
 #import <objc/runtime.h>

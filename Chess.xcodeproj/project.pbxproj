@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		310A571116FFEF63008CA4ED /* appicon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 310A571016FFEF63008CA4ED /* appicon-small.png */; };
 		310A571316FFEF67008CA4ED /* appicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 310A571216FFEF67008CA4ED /* appicon.png */; };
-		3172657B172730B3006AFE34 /* libSocketRocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 316EDD811714E8AE00E8912F /* libSocketRocket.a */; };
 		3172658017273101006AFE34 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3172657F17273101006AFE34 /* CFNetwork.framework */; };
 		3172658217273109006AFE34 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3172658117273109006AFE34 /* Security.framework */; };
 		3199684316EFD179008DBD20 /* Tile.m in Sources */ = {isa = PBXBuildFile; fileRef = 3199684216EFD179008DBD20 /* Tile.m */; };
@@ -39,6 +38,7 @@
 		8B8DEEBA174E47EA00E1B773 /* player1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B8DEEB8174E47EA00E1B773 /* player1.png */; };
 		8B8DEEBB174E47EA00E1B773 /* player2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B8DEEB9174E47EA00E1B773 /* player2.png */; };
 		8B8DEEBF174E83B800E1B773 /* chess.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B8DEEBE174E83B800E1B773 /* chess.png */; };
+		BEF72FCBC360AA51706288F4 /* libPods-Chess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BA64298E581B5803874ED8B3 /* libPods-Chess.a */; };
 		C4AF3C5E16EFA1EF006BC072 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4AF3C5D16EFA1EF006BC072 /* UIKit.framework */; };
 		C4AF3C6016EFA1EF006BC072 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4AF3C5F16EFA1EF006BC072 /* Foundation.framework */; };
 		C4AF3C6216EFA1EF006BC072 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4AF3C6116EFA1EF006BC072 /* CoreGraphics.framework */; };
@@ -65,48 +65,10 @@
 		C4AF3CA016EFABDD006BC072 /* error.aif in Resources */ = {isa = PBXBuildFile; fileRef = C4AF3C9E16EFABDD006BC072 /* error.aif */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		316EDD801714E8AE00E8912F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 316EDD791714E8AE00E8912F /* SocketRocket.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = F6B2082D1450F597009315AF;
-			remoteInfo = SocketRocket;
-		};
-		316EDD821714E8AE00E8912F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 316EDD791714E8AE00E8912F /* SocketRocket.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = F668C880153E91210044DBAC;
-			remoteInfo = SocketRocketOSX;
-		};
-		316EDD841714E8AE00E8912F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 316EDD791714E8AE00E8912F /* SocketRocket.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = F6BDA802145900D200FE3253;
-			remoteInfo = SRWebSocketTests;
-		};
-		316EDD861714E8AE00E8912F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 316EDD791714E8AE00E8912F /* SocketRocket.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = F62417E314D52F3C003CE997;
-			remoteInfo = TestChat;
-		};
-		712D4DC01E4814950082AC4D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 316EDD791714E8AE00E8912F /* SocketRocket.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = F6B2082C1450F597009315AF;
-			remoteInfo = SocketRocket;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		310A571016FFEF63008CA4ED /* appicon-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "appicon-small.png"; sourceTree = "<group>"; };
-		310A571216FFEF67008CA4ED /* appicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appicon.png; sourceTree = "<group>"; };
-		316EDD791714E8AE00E8912F /* SocketRocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SocketRocket.xcodeproj; path = SocketRocket/SocketRocket.xcodeproj; sourceTree = "<group>"; };
+		2E35FA78F4394E9EAB5979CB /* Pods-Chess.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chess.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Chess/Pods-Chess.debug.xcconfig"; sourceTree = "<group>"; };
+		310A571016FFEF63008CA4ED /* appicon-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "appicon-small.png"; path = "../appicon-small.png"; sourceTree = "<group>"; };
+		310A571216FFEF67008CA4ED /* appicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appicon.png; path = ../appicon.png; sourceTree = "<group>"; };
 		3172657F17273101006AFE34 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		3172658117273109006AFE34 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		3199684116EFD179008DBD20 /* Tile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tile.h; sourceTree = "<group>"; };
@@ -147,11 +109,13 @@
 		31FD270C16FA9C0A004EA9DC /* Game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Game.m; sourceTree = "<group>"; };
 		31FD270E16FA9F17004EA9DC /* LoadGameCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadGameCell.h; sourceTree = "<group>"; };
 		31FD270F16FA9F17004EA9DC /* LoadGameCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadGameCell.m; sourceTree = "<group>"; };
+		648595BFFF76BDA624E3E6C9 /* Pods-Chess.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chess.release.xcconfig"; path = "Pods/Target Support Files/Pods-Chess/Pods-Chess.release.xcconfig"; sourceTree = "<group>"; };
 		8B8DEEAE174E42B600E1B773 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 		8B8DEEAF174E42B600E1B773 /* menubar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menubar.png; sourceTree = "<group>"; };
 		8B8DEEB8174E47EA00E1B773 /* player1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player1.png; sourceTree = "<group>"; };
 		8B8DEEB9174E47EA00E1B773 /* player2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player2.png; sourceTree = "<group>"; };
 		8B8DEEBE174E83B800E1B773 /* chess.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chess.png; sourceTree = "<group>"; };
+		BA64298E581B5803874ED8B3 /* libPods-Chess.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Chess.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4AF3C5A16EFA1EF006BC072 /* Chess.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chess.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4AF3C5D16EFA1EF006BC072 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C4AF3C5F16EFA1EF006BC072 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -189,27 +153,16 @@
 			files = (
 				3172658217273109006AFE34 /* Security.framework in Frameworks */,
 				3172658017273101006AFE34 /* CFNetwork.framework in Frameworks */,
-				3172657B172730B3006AFE34 /* libSocketRocket.a in Frameworks */,
 				C4AF3C5E16EFA1EF006BC072 /* UIKit.framework in Frameworks */,
 				C4AF3C6016EFA1EF006BC072 /* Foundation.framework in Frameworks */,
 				C4AF3C6216EFA1EF006BC072 /* CoreGraphics.framework in Frameworks */,
+				BEF72FCBC360AA51706288F4 /* libPods-Chess.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		316EDD7A1714E8AE00E8912F /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				316EDD811714E8AE00E8912F /* libSocketRocket.a */,
-				316EDD831714E8AE00E8912F /* SocketRocket.framework */,
-				316EDD851714E8AE00E8912F /* SRWebSocketTests.octest */,
-				316EDD871714E8AE00E8912F /* TestChat.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		3199684016EFD129008DBD20 /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -239,17 +192,22 @@
 			name = Model;
 			sourceTree = "<group>";
 		};
+		68B03363666EA7D5321C0CDE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2E35FA78F4394E9EAB5979CB /* Pods-Chess.debug.xcconfig */,
+				648595BFFF76BDA624E3E6C9 /* Pods-Chess.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		C4AF3C5116EFA1EF006BC072 = {
 			isa = PBXGroup;
 			children = (
-				3172658117273109006AFE34 /* Security.framework */,
-				3172657F17273101006AFE34 /* CFNetwork.framework */,
-				316EDD791714E8AE00E8912F /* SocketRocket.xcodeproj */,
-				310A571216FFEF67008CA4ED /* appicon.png */,
-				310A571016FFEF63008CA4ED /* appicon-small.png */,
 				C4AF3C6316EFA1EF006BC072 /* Chess */,
 				C4AF3C5C16EFA1EF006BC072 /* Frameworks */,
 				C4AF3C5B16EFA1EF006BC072 /* Products */,
+				68B03363666EA7D5321C0CDE /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -264,9 +222,12 @@
 		C4AF3C5C16EFA1EF006BC072 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				3172657F17273101006AFE34 /* CFNetwork.framework */,
+				3172658117273109006AFE34 /* Security.framework */,
 				C4AF3C5D16EFA1EF006BC072 /* UIKit.framework */,
 				C4AF3C5F16EFA1EF006BC072 /* Foundation.framework */,
 				C4AF3C6116EFA1EF006BC072 /* CoreGraphics.framework */,
+				BA64298E581B5803874ED8B3 /* libPods-Chess.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -297,6 +258,8 @@
 		C4AF3C6416EFA1EF006BC072 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				310A571216FFEF67008CA4ED /* appicon.png */,
+				310A571016FFEF63008CA4ED /* appicon-small.png */,
 				31B3CBC31756F76E00654FC4 /* defaultPrefs.plist */,
 				31C320661754048D00FF83F6 /* Phosphate-Inline.ttf */,
 				31C320671754048D00FF83F6 /* Superclarendon Bold.ttf */,
@@ -347,14 +310,16 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C4AF3C7716EFA1EF006BC072 /* Build configuration list for PBXNativeTarget "Chess" */;
 			buildPhases = (
+				0D3DCFAFA5F2D3CB48830EA5 /* [CP] Check Pods Manifest.lock */,
 				C4AF3C5616EFA1EF006BC072 /* Sources */,
 				C4AF3C5716EFA1EF006BC072 /* Frameworks */,
 				C4AF3C5816EFA1EF006BC072 /* Resources */,
+				382A019E1EA78826AE6A0EB3 /* [CP] Embed Pods Frameworks */,
+				D9E3DE90B0EC5278915BDD43 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				712D4DC11E4814950082AC4D /* PBXTargetDependency */,
 			);
 			name = Chess;
 			productName = Chess;
@@ -386,49 +351,12 @@
 			mainGroup = C4AF3C5116EFA1EF006BC072;
 			productRefGroup = C4AF3C5B16EFA1EF006BC072 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 316EDD7A1714E8AE00E8912F /* Products */;
-					ProjectRef = 316EDD791714E8AE00E8912F /* SocketRocket.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				C4AF3C5916EFA1EF006BC072 /* Chess */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		316EDD811714E8AE00E8912F /* libSocketRocket.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libSocketRocket.a;
-			remoteRef = 316EDD801714E8AE00E8912F /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		316EDD831714E8AE00E8912F /* SocketRocket.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = SocketRocket.framework;
-			remoteRef = 316EDD821714E8AE00E8912F /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		316EDD851714E8AE00E8912F /* SRWebSocketTests.octest */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.cfbundle;
-			path = SRWebSocketTests.octest;
-			remoteRef = 316EDD841714E8AE00E8912F /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		316EDD871714E8AE00E8912F /* TestChat.app */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.application;
-			path = TestChat.app;
-			remoteRef = 316EDD861714E8AE00E8912F /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		C4AF3C5816EFA1EF006BC072 /* Resources */ = {
@@ -472,6 +400,54 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0D3DCFAFA5F2D3CB48830EA5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		382A019E1EA78826AE6A0EB3 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Chess/Pods-Chess-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D9E3DE90B0EC5278915BDD43 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Chess/Pods-Chess-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		C4AF3C5616EFA1EF006BC072 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -499,14 +475,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		712D4DC11E4814950082AC4D /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SocketRocket;
-			targetProxy = 712D4DC01E4814950082AC4D /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		C4AF3C6616EFA1EF006BC072 /* InfoPlist.strings */ = {
@@ -578,6 +546,7 @@
 		};
 		C4AF3C7816EFA1EF006BC072 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2E35FA78F4394E9EAB5979CB /* Pods-Chess.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				ARCHS = "$(ARCHS_STANDARD)";
@@ -586,10 +555,10 @@
 				DEVELOPMENT_TEAM = 7JR2L8W49H;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Chess/Chess-Prefix.pch";
-				HEADER_SEARCH_PATHS = "\"SocketRocket/\"";
+				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "Chess/Chess-Info.plist";
-				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.eachscape.test;
+				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.chess;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -599,6 +568,7 @@
 		};
 		C4AF3C7916EFA1EF006BC072 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 648595BFFF76BDA624E3E6C9 /* Pods-Chess.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				ARCHS = "$(ARCHS_STANDARD)";
@@ -607,10 +577,10 @@
 				DEVELOPMENT_TEAM = 7JR2L8W49H;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Chess/Chess-Prefix.pch";
-				HEADER_SEARCH_PATHS = "\"SocketRocket/\"";
+				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "Chess/Chess-Info.plist";
-				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.eachscape.test;
+				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.chess;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";

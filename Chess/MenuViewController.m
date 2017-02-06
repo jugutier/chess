@@ -2,8 +2,8 @@
 //  MenuViewController.m
 //  Chess
 //
-//  Created by Jorge Lorenzon on 3/12/13.
-//  Copyright (c) 2013 Jorge Lorenzon. All rights reserved.
+//  Created by Julian Gutierrez Ferrara on 3/12/13.
+//  Copyright (c) 2013 Julian Gutierrez Ferrara & Facundo Menzella. All rights reserved.
 //
 
 #import "MenuViewController.h"
